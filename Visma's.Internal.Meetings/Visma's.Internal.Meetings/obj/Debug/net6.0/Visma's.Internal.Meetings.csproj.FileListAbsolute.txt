@@ -1,0 +1,17 @@
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\bin\Debug\net6.0\Visma's.Internal.Meetings.exe
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\bin\Debug\net6.0\Visma's.Internal.Meetings.deps.json
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\bin\Debug\net6.0\Visma's.Internal.Meetings.runtimeconfig.json
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\bin\Debug\net6.0\Visma's.Internal.Meetings.dll
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\bin\Debug\net6.0\Visma's.Internal.Meetings.pdb
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.csproj.AssemblyReference.cache
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.AssemblyInfoInputs.cache
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.AssemblyInfo.cs
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.csproj.CoreCompileInputs.cache
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.dll
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\refint\Visma's.Internal.Meetings.dll
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.pdb
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.genruntimeconfig.cache
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\ref\Visma's.Internal.Meetings.dll
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programavimas2\Visma\Visma's.Internal.Meetings\Visma's.Internal.Meetings\obj\Debug\net6.0\Visma's.Internal.Meetings.csproj.CopyComplete
